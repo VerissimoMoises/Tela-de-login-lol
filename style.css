@@ -198,7 +198,7 @@ main {
 
 .wallpaper {
   width: 100%;
-  background-image: url('./images/morgana_feiticeira.jpg');
+  background-image: url('images/morgana_feiticeira.jpg');
   background-size: cover;
   background-position: center;
   flex: 1;
